@@ -17,7 +17,7 @@ Learning Frontend
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp &nbsp &nbsp &nbsp 
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> 
    </p>
- Javascript ,&nbsp &nbsp &nbsp HTML5 ,&nbsp &nbsp &nbsp CSS3 ,&nbsp &nbsp &nbsp Figma
+ Javascript &nbsp &nbsp &nbsp HTML5 &nbsp &nbsp &nbsp &nbsp CSS3 &nbsp &nbsp &nbsp &nbsp Figma
 
 ### Socials
 
