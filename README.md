@@ -14,10 +14,10 @@ Learning Frontend
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,git,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,figma,git" />
   </a>
 </p>
- Javascript ,HTML5 ,CSS3 ,Git, Figma
+ Javascript ,HTML5 ,CSS3 ,Figma ,Git
 
 ### Socials
 
