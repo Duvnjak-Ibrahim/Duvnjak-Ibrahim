@@ -17,7 +17,7 @@ Learning Frontend
     <img src="https://skillicons.dev/icons?i=javascript,html,css,git,figma" />
   </a>
 </p>
- Javascript &nbsp,HTML5 &nbsp,CSS3 &nbsp,Git &nbsp,&nbsp Figma
+ Javascript &nbsp,HTML5 &nbsp,CSS3 &nbsp,Git, Figma
 
 ### Socials
 
