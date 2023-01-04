@@ -19,7 +19,7 @@ Learning Frontend
    </p>
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascriot,html5,css,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,git" />
   </a>
 </p>
  Javascript &nbsp &nbsp &nbsp HTML5 &nbsp &nbsp &nbsp &nbsp CSS3 &nbsp &nbsp &nbsp &nbsp Figma
