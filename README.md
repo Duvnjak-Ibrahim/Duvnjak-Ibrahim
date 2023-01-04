@@ -17,9 +17,9 @@ Learning Frontend
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp &nbsp &nbsp &nbsp 
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> 
    </p>
- <p align="center">
+ <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=javascriot,html5,css,git" />
   </a>
 </p>
  Javascript &nbsp &nbsp &nbsp HTML5 &nbsp &nbsp &nbsp &nbsp CSS3 &nbsp &nbsp &nbsp &nbsp Figma
