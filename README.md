@@ -6,7 +6,7 @@ Learning Frontend
 
 * 🌍  I'm based in Stuttgart, Germany
 * ✉️  You can contact me at [duvnjak.ibrahim2004@gmail.com](mailto:duvnjak.ibrahim2004@gmail.com)
-* 🧠  I'm learning Frontend, website building exercising
+* 🧠  I'm learning Frontend, Website building exercising
 
 ### Skills
 
